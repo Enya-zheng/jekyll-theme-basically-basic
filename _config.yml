@@ -16,7 +16,7 @@
 lang: zh-CN
 title: Enya的期末作业
 email:
-description:网页设计的期末作业
+description:网页设计与制作的期末作业
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "http://juxieenya.gitee.io/final_homework" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
